@@ -1,2 +1,2 @@
 # Intro-prog-objetos
-Repositorio para el modulo de introducción a la programación orientada a objetos.
+Prácticas y proyectos introductorios a la programación orientada a objetos.
